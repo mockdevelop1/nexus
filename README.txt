@@ -1,1 +1,1 @@
-###Testing Travis-CI and SonarQube###
+###Testing SonarQube + Github Plugin###

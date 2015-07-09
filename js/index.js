@@ -53,7 +53,7 @@ $(document).ready(function(){
 	pusher.number(8);
 	pusher.number(9);
 	pusher.number(0);
-
+ERROR;
 	$('.numbers-container .pushedasterisk').click(function(){
 		$('.number-area .numbers').append('*');
 	});	
